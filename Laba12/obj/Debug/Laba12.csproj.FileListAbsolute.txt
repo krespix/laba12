@@ -1,0 +1,8 @@
+C:\Users\U2\RiderProjects\Laba12\Laba12\bin\Debug\Laba12.exe
+C:\Users\U2\RiderProjects\Laba12\Laba12\bin\Debug\Laba12.pdb
+C:\Users\U2\RiderProjects\Laba12\Laba12\bin\Debug\Goods.dll
+C:\Users\U2\RiderProjects\Laba12\Laba12\bin\Debug\Goods.pdb
+C:\Users\U2\RiderProjects\Laba12\Laba12\obj\Debug\Laba12.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Laba12\Laba12\obj\Debug\Laba12.csproj.CopyComplete
+C:\Users\U2\RiderProjects\Laba12\Laba12\obj\Debug\Laba12.exe
+C:\Users\U2\RiderProjects\Laba12\Laba12\obj\Debug\Laba12.pdb
